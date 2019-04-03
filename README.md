@@ -1,3 +1,3 @@
-# Simple Facebook app
+# Simple Facebook profile
 
-Done by following Daniel Malone tutorial
+Done by following Daniel Malone tutorial 1
